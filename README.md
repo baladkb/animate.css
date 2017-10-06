@@ -67,7 +67,7 @@ $ npm install animate.css --save
 | `slideInDown` |`slideInLeft` |`slideInRight` |`slideInUp` |
 | `slideOutDown` |`slideOutLeft` |`slideOutRight` |`slideOutUp` |
 
-Full example:
+**Full example:**
 ```html
 <h1 class="animated infinite bounce">Example</h1>
 ```
